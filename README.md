@@ -1,2 +1,2 @@
 # TimeSeriesAnalysis
-TimeSeries_Google_StockPrice_Analysis
+TimeSeries_Equity_Analysis
