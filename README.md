@@ -1,4 +1,4 @@
 # TimeSeriesAnalysis
-Deep Learning method: LSTM; 
-Traditional time series model: ARIMA, Fourier Transformation
+</br> Deep Learning method: LSTM; </br>
+</br> Traditional Time Series Model: ARIMA, Fourier Transformation</br>
  
