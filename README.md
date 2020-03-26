@@ -1,4 +1,4 @@
-# TimeSeriesAnalysis
+# Time Series Analysis
 ## Some Exploration in Time Series Techniques 
 - Data Exploration
   - Trend 
