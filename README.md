@@ -4,7 +4,8 @@
   - Trend 
   - Distribution 
   - Stationary 
-- Deep Learning method: LSTM 
+- Deep Learning method
+  - LSTM 
 - Traditional Time Series Model
   - ARIMA
   - Fourier Transformation 
