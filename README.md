@@ -1,5 +1,5 @@
 # Time Series Analysis
-## Exploration in Time Series Techniques in Google Price 
+## Exploration in Google Price 
 - Data Exploration
   - Trend 
   - Distribution 
